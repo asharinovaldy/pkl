@@ -1,0 +1,7 @@
+if(harini>tglsel){
+    echo "Selesai"
+}else{
+    formula
+}
+
+nl2br
